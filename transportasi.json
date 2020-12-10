@@ -5,5 +5,13 @@
        "deskripsi_trans" : "Pemanfaatan Terminal Baru Ngadirejo yang berlokasi di Jalan Raya Ngadirejo, Dusun Sijeruk Desa Ngaren Kecamatan Ngadirejo, Kabupaten Temanggung dinilai belum optimal, sehingga menjadi PR tersendiri bagi Pemerintah Kabupaten Temanggung. Pasalnya, terminal yang rampung dikerjakan pada 2019 lalu, kini masih sepi. Tak hanya sepi dari operasional bus, namun juga sepi dari kegiatan ekonomi maupun kegiatan sosial budaya. Dalam kegiatan diskusi bersama para pegiat ekonomi Ngadirejo, Bupati Temanggung Muhammad Al Khadziq berharap, dalam waktu dekat terminal itu menjadi pusat aktivitas dan kreatifitas warga. Khususnya masyarakat Temanggung bagian utara.",
        "lokasi_trans": "Jalan Raya Ngadirejo, Dusun Sijeruk Desa Ngaren Kecamatan Ngadirejo, Kabupaten Temanggung",
        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/transportasi/termngadirejo.jpg" 
-    }
+    },
+    {
+        "id" : "T2",
+        "nama_trans" : "Terminal Baru Temanggung",
+        "deskripsi_trans" : "berada masih dalam kota temanggung di wilayah kelurahan Kowangan Tempatnya depan Samsat Temanggung, untuk menemukan lokasi sangat mudah karena lokasi berada setelah gerbang masuk kota Temanggung ( jalur bus semarang – Purwokerto jalur bus Magelang – Wonosobo jalur bus Magelang – Sukorejo jalur bus Parakan – Ambarawa jalur bus Solo – Purwokerto Angkutan dalam kota (Kopata) )",
+        "lokasi_trans": "Jalan Suwandi-Suwardi, Kel. Kowangan, Kec. Kowangan, Kabupaten Temanggung",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/transportasi/terminaltemanggung.jpg" 
+     }
 ]
+
