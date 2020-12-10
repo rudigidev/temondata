@@ -5,5 +5,48 @@
        "deskripsi_kuliner" : "Berbeda dengan pasar lainnya, Pasar Papringan ini digelar di bawah rindangnya rumpun bambu yang menambah kesan asri dan alami. Selain itu, udara di sini menjadi sejuk dan yang pasti para pengunjung akan betah untuk berlama-lama di sini.Nah, keunikan dari pasar Papringan ini adalah pembayarannya menggunakan koin bambu. Traveler harus menukar uang kelipatan Rp 2.000 , Rp 20.000 atau Rp 50.000 di tempat penukaran uang. Daftar harga untuk membeli makanan yang disediakan tertera di tempat tersebut dengan jelas , seperti , makanan berat seharga 2-6 piring. Dua piring itu setara dengan 4.000 rupiah.Traveler yang ingin berkunjung ke sini harus melihat info atau melihat tanggalan. Sebab, pasar ini buka hanya setiap Minggu Wage dan Minggu Pon. Artinya, dalam 35 hari Pasar Papringan hanya buka dua kali.",
        "lokasi_kuliner" : "Dusun Ngadiprono, Desa Ngadimulyo, Kecamatan Kedu, Kabupaten Temanggung, Jawa Tengah.",
        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/papringan.jpg" 
-    }
+    },
+    {
+        "id" : "K2",
+        "nama_kuliner" : "Kuliner Ayam Geprek Nonix",
+        "deskripsi_kuliner" : "Ayam geprek Nonix merupakan salah satu restoran nomor satu di temanggung. nah bagi anda yang doyan dengan jajanan ayam, restoran ini sangat cocok buat anda. Sangat direkomendasikan buat anda yang pecinta rasa pedas. Dengan porsi yang besar bisa membuat anda lebih kenyang dan memuaskan anda. Untuk masalah harga jangan takut ayam geprek ini tidak menguras dompet anda. Lokasinya pun sangat starategis dekat dengan beberapa penginapan dan hotel dan bahkan dekat dengan obek wisata di kota temanggung.",
+        "lokasi_kuliner" : "Jl. Raya Ngadirejom No 004 Petirejo, Ngadirejo Temanggung.",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/ayamgepreknonik.png" 
+     },
+     {
+        "id" : "K3",
+        "nama_kuliner" : "Kopi Mukidi",
+        "deskripsi_kuliner" : "Bagi anda pecinta  dan penikmat kopi, rumah kopi mukidi sangat pas buat anda dengan cita rasa kopi yang original. Kopinya sangat enak dinikmati dengan suasana yang sejuk. Harga kopi disini sangat murah. Selain kopi kedai ini juga tersedia minuman yang lainnya. Kedai ini buka tiap hari mulai dari pukul 08.00 sampai pukul 17.00.",
+        "lokasi_kuliner" : "Dusun Jambon Desa Gandurejo Bulu, Temanggung.",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/kopi_mukidi.jpg" 
+     },
+     {
+        "id" : "K4",
+        "nama_kuliner" : "Restoran Kampoeng Sawah",
+        "deskripsi_kuliner" : "Di Temanggung ada restoran yang menyuguhkan pemandangan alam yang asri. Mampir saja ke Kampoeng Sawah Temanggung yang cocok untuk bersantap bersama keluarga.Restoran bergaya tradisional. Selain itu juga terdapat kolam ikan dan hamparan sawah hijau. Kampoeng Sawah Temanggung menawarkan berbagai makanan nusantara.Ada ayam goreng, ikan goreng, sop daging, dan masih banyak lagi. Lengkap dengan aneka dessert. Harga yang ditawarkan juga terjangkau.",
+        "lokasi_kuliner" : "Jalan Gatot Subroto No. 25 Tawangsari, Temanggung ( Telepon: 0812-2709-9342 Jam Buka : 08.00 - 21.00 )",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/kampoengsawah.jpg" 
+     },
+     {
+        "id" : "K5",
+        "nama_kuliner" : "Wedang Ronde Pak Medi",
+        "deskripsi_kuliner" : "Wedang ronde khas Temanggung ini berbeda dengan yang ada di Yogyakarta maupun Solo. Wedang ronde wasis biasanya diberi campuran emping. Yang penasaran ingin mencoba bisa mampir ke warung Wedang Ronde Wasis P. Meidi. Lokasinya berada di Jalan Kapten Tendean, Temanggung. Warungnya sederhana, hanya berupa warung tenda kaki lima. Tapi warungnya sering dikunjungi para wisatawan. Selain wedang ronde, di sini juga menawarkan aneka gorengan.",
+        "lokasi_kuliner" : "Jl. Kapt. Tendean Dongkelan Utara, Temanggung ( Jam Buka : 16.00 - 21.00 )",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/ronde.jpg" 
+     },
+     {
+        "id" : "K6",
+        "nama_kuliner" : "Daun Mas Resto",
+        "deskripsi_kuliner" : "Daun Mas Resto beralamat di Jalan Suwandi Suwardi no 3, tepatnya di hotel Indraloka. Restoran cocok untuk bersantap bersama keluarga. Tempatnya nyaman dan areanya juga luas. Menu yang ditawarkan merupakan makanan nusantara, mulai dari makanan berat hingga camilan semuanya lengkap. Diantaranya ada gurame, pindang ikan, bandeng dabu-dabu, sate kambing, ayam goreng kremes dan masih banyak lagi.",
+        "lokasi_kuliner" : "Jl. Suwandi Suwardi No.3 Kowangan, Temanggung ( Telepon : (0293) 4960171 Jam Buka : 10.00 - 21.30 )",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/daunmas.jpg" 
+     },
+     {
+        "id" : "K7",
+        "nama_kuliner" : "Waroeng Jadoel Temanggung",
+        "deskripsi_kuliner" : "Waroeng Jadoel Temanggung yang sudah mulai buka sejak 1800-an tersebut didirikan oleh Dulah Rujiani. Pengelolaan warung kemudian diturunkan kepada Siti Sukastiyah sebagai anak perempuannya. Secara turun-temurun, tempat makan ini kemudian dikelola oleh Yulianto Murtono. Jadi, total sudah ada tiga generasi yang mengelola kedai makan sederhana ini. Meski sudah berpindah-pindah tangan, resep dan kenikmatan hidangan yang disajikan tidak berubah. Karena itu, meski sudah banyak tempat makan baru bermunculan, kedai ini tetap ramai pembeli.",
+        "lokasi_kuliner" : "Jenderal Soedirman No 102, Temanggung. ( Depan Kantor Telkom Temanggung )",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/warungjadul2.jpg" 
+     }
 ]
+

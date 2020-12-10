@@ -5,5 +5,19 @@
        "deskripsi_hotel" : "Aliyana Hotel & Resort terletak di bagian menarik dari Jawa Tengah, Temanggung, dan dikelilingi oleh pegunungan Sumbing, Sindoro, Merapi dan Merbabu. Kamar Nyaman dan Kontemporer dirancang dengan pemandangan taman dan kolam renang yang luar biasa. Kamar hotel untuk kenyamanan modern, minibar, AC, TV satelit & kabel, akses internasional, brankas serta semua aksesori dan layanan kamar yang diperlukan. Restoran dan kafe kami mengedepankan spesialisasi masakan nasional & internasional, aneka minuman, disertai dengan pelayanan yang baik.",
        "lokasi_hotel": "Jl. H. Agus salim No. 7, Temanggung - Jawa Tengah, INDONESIA",
        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/hotel/aliyana.jpg" 
-    }
+    },
+    {
+        "id" : "H2",
+        "nama_hotel" : "Hotel Indraloka Temanggung",
+        "deskripsi_hotel" : "Nah, salah satu Hotel di Temanggung yang lokasinya mudah dijangkau dan memiliki fasilitas bagus adalah Hotel Indraloka. Hotel yang terletak dekat dengan Terminal Kota Temanggung ini dikenal memiliki suasana yang nyaman dan cocok sebagai tempat menginap. Banyak wisatawan yang memilih untuk menginap di Hotel Indraloka Kusuma karena suasananya tenang dan nyaman. Selain itu, lokasinya yang strategis dan dekat dengan pusat kota juga membuat penginapan satu ini begitu banyak diminati wisatawan.",
+        "lokasi_hotel": "Jl. Suwandi Suwardi No.3, Kowangan, Kec. Temanggung, Kabupaten Temanggung, Jawa Tengah",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/hotel/indraloka.jpg",
+    },
+    {
+        "id" : "H3",
+        "nama_hotel" : "Jambu Kluthuk Resort",
+        "deskripsi_hotel" : "ambu Klutuk Resort is set in Parakan. Magelang is 25 km from the villa, while Borobudur is 38 km from the property. The nearest airport is Ahmad Yani International Airport, 48 km from Jambu Klutuk Resort. Ketika Anda merencanakan perjalanan ke Indonesia, ingat bahwa akomodasi sangat penting. Jambu Klutuk Resort terletak di Jalan Raya Parakan - Wonosobo km. 3, Tanduran, Caturanom, Parakan Rumah Makan Jambu Klutuk dan Villa Sindoro dan itu adalah tempat yang bagus untuk tinggal. Mengetahui lebih lanjut tentang akomodasi seperti Kamar ulasan ketersediaan, Fasilitas, atau pelanggan. ",
+        "lokasi_hotel": "Jalan Raya Parakan - Wonosobo km. 3, Tanduran, Caturanom, Parakan",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/hotel/jambuklutuk.png" 
+     }
 ]
