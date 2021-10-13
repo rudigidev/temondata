@@ -1,0 +1,30 @@
+[
+    {
+        "id" : "W4",
+        "nama" : "Wisata Alam Embung Kledung",
+        "deskripsi" : "Dengan latar belakang Gunung Sindoro, eksotisme danau buatan ini menjadi daya tarik utama wisatawan untuk berkunjung ke sana.Warna air yang jernih terlihat memantulkan pemandangan alam di sekitarnya membuat kawasan ini elok dipandang mata.Meskipun embung ini difungsikan sebagai penadah hujan untuk keperluan irigasi, namun keindahannya teramat sayang untuk dilewatkan begitu saja.Kamu bisa jadikan tempat ini sebagai tempat hunting foto terbaik di Temanggung.",
+        "lokasi" : "Tlahap, Kledung, Kabupaten Temanggung, Jawa Tengah.",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/wisata/4.png"
+    },
+   {
+       "id" : "K1",
+       "nama" : "Kuliner Pasar Papringan",
+       "deskripsi" : "Berbeda dengan pasar lainnya, Pasar Papringan ini digelar di bawah rindangnya rumpun bambu yang menambah kesan asri dan alami. Selain itu, udara di sini menjadi sejuk dan yang pasti para pengunjung akan betah untuk berlama-lama di sini.Nah, keunikan dari pasar Papringan ini adalah pembayarannya menggunakan koin bambu. Traveler harus menukar uang kelipatan Rp 2.000 , Rp 20.000 atau Rp 50.000 di tempat penukaran uang. Daftar harga untuk membeli makanan yang disediakan tertera di tempat tersebut dengan jelas , seperti , makanan berat seharga 2-6 piring. Dua piring itu setara dengan 4.000 rupiah.Traveler yang ingin berkunjung ke sini harus melihat info atau melihat tanggalan. Sebab, pasar ini buka hanya setiap Minggu Wage dan Minggu Pon. Artinya, dalam 35 hari Pasar Papringan hanya buka dua kali.",
+       "lokasi" : "Dusun Ngadiprono, Desa Ngadimulyo, Kecamatan Kedu, Kabupaten Temanggung, Jawa Tengah.",
+       "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/kuliner/papringan.jpg" 
+    },
+   {
+        "id" : "H3",
+        "nama" : "Jambu Kluthuk Resort",
+        "deskripsi" : "ambu Klutuk Resort is set in Parakan. Magelang is 25 km from the villa, while Borobudur is 38 km from the property. The nearest airport is Ahmad Yani International Airport, 48 km from Jambu Klutuk Resort. Ketika Anda merencanakan perjalanan ke Indonesia, ingat bahwa akomodasi sangat penting. Jambu Klutuk Resort terletak di Jalan Raya Parakan - Wonosobo km. 3, Tanduran, Caturanom, Parakan Rumah Makan Jambu Klutuk dan Villa Sindoro dan itu adalah tempat yang bagus untuk tinggal. Mengetahui lebih lanjut tentang akomodasi seperti Kamar ulasan ketersediaan, Fasilitas, atau pelanggan. ",
+        "lokasi": "Jalan Raya Parakan - Wonosobo km. 3, Tanduran, Caturanom, Parakan",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/hotel/jambuklutuk.png" 
+     },
+   {
+        "id" : "T2",
+        "nama" : "Terminal Baru Temanggung",
+        "deskripsi" : "berada masih dalam kota temanggung di wilayah kelurahan Kowangan Tempatnya depan Samsat Temanggung, untuk menemukan lokasi sangat mudah karena lokasi berada setelah gerbang masuk kota Temanggung ( jalur bus semarang – Purwokerto jalur bus Magelang – Wonosobo jalur bus Magelang – Sukorejo jalur bus Parakan – Ambarawa jalur bus Solo – Purwokerto Angkutan dalam kota (Kopata) )",
+        "lokasi": "Jalan Suwandi-Suwardi, Kel. Kowangan, Kec. Kowangan, Kabupaten Temanggung",
+        "img" : "https://raw.githubusercontent.com/rudigidev/ayopikniktmgdata/main/transportasi/terminaltemanggung.jpg" 
+     }
+]
